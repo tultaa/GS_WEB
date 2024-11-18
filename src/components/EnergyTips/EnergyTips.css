@@ -1,0 +1,67 @@
+.energy-tips {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .energy-tips h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    color: #2d3748;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .energy-tips ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .energy-tips li {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .energy-tips li h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #2b6cb0;
+    margin-bottom: 10px;
+  }
+  
+  .energy-tips li p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #4a5568;
+  }
+  
+  @media (max-width: 768px) {
+    .energy-tips {
+      padding: 15px;
+    }
+  
+    .energy-tips h2 {
+      font-size: 20px;
+    }
+  
+    .energy-tips li {
+      padding: 12px;
+    }
+  
+    .energy-tips li h3 {
+      font-size: 18px;
+    }
+  
+    .energy-tips li p {
+      font-size: 14px;
+    }
+  }
+  

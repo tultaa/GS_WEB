@@ -1,0 +1,42 @@
+.energy-data {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .energy-data h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .energy-data h2 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+  
+  .energy-data ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .energy-data ul li {
+    margin-bottom: 15px;
+  }
+  
+  .energy-data ul li h3 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+  
+  .energy-data ul li p {
+    font-size: 1rem;
+  }
+  
+  .energy-data .loading {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  .highlight {
+    color: #4CAF50; /* Exemplo de cor verde */
+  }

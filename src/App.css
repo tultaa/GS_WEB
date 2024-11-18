@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f7f9f9;
+  color: #2c3e50;
+}
+
+main {
+  min-height: 80vh;
+}
+
+/* Garanta que o corpo e o HTML ocupem 100% da altura da tela */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+/* A aplicação como flex container, com uma direção de coluna */
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Garantir que a altura mínima seja 100% da altura da tela */
+}
+
+main {
+  flex: 1; /* O conteúdo principal vai crescer e ocupar todo o espaço disponível */
+}
+
+footer {
+  background-color: #333; /* Cor do fundo do footer */
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}

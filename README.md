@@ -67,11 +67,10 @@ A estrutura principal do projeto é a seguinte:
 
 ```csharp
 📦 green-house
-├── 📂 public       # Arquivos públicos
+├── 📂 public       # Arquivos publicos e imagens
 ├── 📂 src
 │   ├── 📂 components  # Componentes reutilizáveis
 │   ├── 📂 pages       # Páginas do projeto
-│   ├── 📂 styles      # Arquivos CSS globais
 │   ├── App.jsx        # Componente principal
 │   ├── main.jsx       # Entrada do projeto
 ├── 📜 package.json    # Configuração de dependências

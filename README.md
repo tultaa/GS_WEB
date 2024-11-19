@@ -1,6 +1,11 @@
 # 🌿 Green House - Projeto Web com React
 
 Bem-vindo ao **Green House**, um projeto focado na sustentabilidade, que utiliza tecnologias modernas para exibir dados sobre energia renovável, clima e muito mais. 🚀
+### Feito por:
+- Arthur Fellipe Estevão da Silva RM553320
+- Eduardo Pires Escudero RM556527
+- Leonardo Munhoz Prado RM556824
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -74,12 +79,15 @@ A estrutura principal do projeto é a seguinte:
 
 
 ### 🌟 Funcionalidades
-- Autenticação:
+**Autenticação:**
 - Cadastro e login com armazenamento local (LocalStorage).
 - Tela "Minha Conta" com logout funcional.
-- Clima em Tempo Real:
+  
+**Clima em Tempo Real:**
 - Integração com a OpenWeather API para exibir dados climáticos.
-- Dados de Energia Renovável:
+
+**Dados de Energia Renovável:**
 - Visualização de informações detalhadas sobre energia limpa.
-- Interface Responsiva:
-- Design responsivo e estilização com Tailwind CSS.
+
+**Interface Responsiva:**
+- Design responsivo e estilização com CSS.
